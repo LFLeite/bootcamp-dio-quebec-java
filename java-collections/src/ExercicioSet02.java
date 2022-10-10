@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class ExercicioSet02 {
-    
+
     public static void main(String[] args) {
         Set<LinguagemFavorita> setLinguagens = new LinkedHashSet<>();
         setLinguagens.add(new LinguagemFavorita("Java", 1995, "IntelliJ"));
