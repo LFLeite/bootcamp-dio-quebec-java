@@ -1,3 +1,5 @@
+package exerciciosMap;
+
 import java.util.*;
 
 public class ExercicioMap {

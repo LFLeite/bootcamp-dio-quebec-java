@@ -1,3 +1,5 @@
+package exerciciosSet;
+
 import java.util.*;
 
 public class ExercicioSet01 {

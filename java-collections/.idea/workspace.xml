@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebb85047-1b51-4e3b-8793-3c87814ab8ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../java-basic-challenges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic-challenges/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosMap/DesafioMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosList/ExercicioList01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioList02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosList/ExercicioList02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosMap/ExercicioMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosSet/ExercicioSet01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioSet02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosSet/ExercicioSet02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Desafio">
+  <component name="RunManager">
     <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Desafio" />
       <module name="java-collections" />
@@ -49,15 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioMap" />
+    <configuration name="ExercicioList01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioList01" />
       <module name="java-collections" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioSet01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioSet01" />
+    <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioMap" />
       <module name="java-collections" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioList01" />
         <item itemvalue="Application.Desafio" />
         <item itemvalue="Application.DesafioMap" />
         <item itemvalue="Application.ExercicioMap" />
         <item itemvalue="Application.ExercicioSet02" />
-        <item itemvalue="Application.ExercicioSet01" />
       </list>
     </recent_temporary>
   </component>
