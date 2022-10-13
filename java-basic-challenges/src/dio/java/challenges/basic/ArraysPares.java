@@ -1,3 +1,5 @@
+package dio.java.challenges.basic;
+
 import java.io.*;
 import java.util.*;
 

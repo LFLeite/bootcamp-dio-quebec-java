@@ -1,4 +1,4 @@
-package exerciciosMap;
+package dio.java.exercises.map;
 
 import java.util.*;
 

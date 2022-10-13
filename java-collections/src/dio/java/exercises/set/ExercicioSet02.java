@@ -1,4 +1,4 @@
-package exerciciosSet;
+package dio.java.exercises.set;
 
 import java.util.*;
 

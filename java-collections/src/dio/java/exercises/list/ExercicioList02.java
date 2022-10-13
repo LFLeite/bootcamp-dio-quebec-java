@@ -1,4 +1,4 @@
-package exerciciosList;
+package dio.java.exercises.list;
 
 import java.util.*;
 

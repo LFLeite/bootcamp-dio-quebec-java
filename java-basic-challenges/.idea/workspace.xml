@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e3b4e6-bc3f-4e4e-ac70-f300821a6a2c" name="Changes" comment="" />
+    <list default="true" id="04e3b4e6-bc3f-4e4e-ac70-f300821a6a2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-intermediate-challenges/java-intermediate-challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysPares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/java/challenges/basic/ArraysPares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/java/challenges/basic/CalculoSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PreenchimentoVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dio/java/challenges/basic/PreenchimentoVetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosList/ExercicioList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/list/ExercicioList01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosList/ExercicioList02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/list/ExercicioList02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosMap/DesafioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/map/DesafioMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosMap/ExercicioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/map/ExercicioMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosSet/ExercicioSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/set/ExercicioSet01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosSet/ExercicioSet02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/set/ExercicioSet02.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
