@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72603977-4ec5-4894-90b2-9c8e1279ef9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java-basic-challenges/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-intermediate-challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic-challenges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic-challenges/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic-challenges/src/ArraysPares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic-challenges/src/dio/java/challenges/basic/ArraysPares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic-challenges/src/CalculoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic-challenges/src/dio/java/challenges/basic/CalculoSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-basic-challenges/src/PreenchimentoVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-basic-challenges/src/dio/java/challenges/basic/PreenchimentoVetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosList/ExercicioList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/list/ExercicioList01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosList/ExercicioList02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/list/ExercicioList02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosMap/DesafioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/map/DesafioMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosMap/ExercicioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/map/ExercicioMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosSet/ExercicioSet01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/set/ExercicioSet01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-collections/src/exerciciosSet/ExercicioSet02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-collections/src/dio/java/exercises/set/ExercicioSet02.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G5JtZMZ2Xd3kXd2PPO86EFJRWw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72603977-4ec5-4894-90b2-9c8e1279ef9e" name="Changes" comment="" />
+      <created>1665672726928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665672726928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
